@@ -32,10 +32,66 @@ Video tutorials:
 
 -close cmd
 
-#Configure
+#Calibration
 
 -open folder where you unziped the files
 
 -open Icue
 
--go to the
+-Center Icue on a position that you can easily recreate
+
+-Make a new EQ setting
+
+-Put the first knop on the highes position and the seconds at the lowest
+
+-open Calibration.py
+
+-put your mouse on the first knop and press enter on the CMD. 
+
+-put your mouse on the second knop and press enter on the CMD. 
+
+-put your mouse on the create new EQ setting and press enter on the CMD. 
+
+-Test if your mouse touches every knop if not press n and enter and recalibrate.
+
+ #Optional: AutoRename
+-open optional.py
+
+-put your mouse on the highest EQ setting and press enter on the CMD. 
+
+-Now you can delete your eq setting
+
+# Add EQ settings
+
+-Now open Equlizer.py
+
+-press A and enter
+
+-chose your EQ setiing that you want to copy
+
+-Enter now your settings and name
+
+-if you want to add a second just redo the steps
+
+#MAIN
+
+-start main.py
+
+-press enter and dont move your mouse
+
+#delete a EQ setting
+
+-open Equlizer.py
+
+-press c and enter now you see your saved eq settings.
+
+-press d to delete one or press e to exit
+
+-Enter name of EQ setting you want to delete
+
+
+
+
+
+
+
