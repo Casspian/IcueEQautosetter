@@ -1,3 +1,16 @@
+Video tutorials:
+ How to setup evrything:
+ https://youtu.be/BLoQg1Ms5CM
+ 
+ How to use it:
+ https://www.youtube.com/watch?v=9no0YhwtrIo
+
+
+
+
+
+
+
 # Requirements
 
 - Python 3.5 or higher.
