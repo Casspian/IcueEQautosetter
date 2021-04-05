@@ -16,7 +16,7 @@ Video tutorials:
 - Python 3.5 or higher.
 -Windows
 
-## Windows:
+# Windows:
 - iCUE for Windows https://www.corsair.com/icue
 - Python https://www.python.org/downloads/
 
