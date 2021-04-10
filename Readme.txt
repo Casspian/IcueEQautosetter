@@ -1,20 +1,19 @@
-#Video tutorials:                                              |
- How to setup evrything:                                       |
-  https://youtu.be/BLoQg1Ms5CM                                 |
-                                                               |
-#How to use it:                                                |
-  https://www.youtube.com/watch?v=9no0YhwtrIo                  |                   
----------------------------------------------------------------|
-#Requirements                                                  |
-                                                               |
--Python 3.5 or higher.                                         |
--Windows                                                       |
----------------------------------------------------------------|
-#Windows:                                                      |
-- iCUE for Windows https://www.corsair.com/icue                |
-- Python https://www.python.org/downloads/                     |
----------------------------------------------------------------|
-#installation                                                  |
+#Video tutorials:                                            
+ How to setup evrything:                                      
+  https://youtu.be/BLoQg1Ms5CM                               
+                                                        
+#How to use it:                                          
+  https://www.youtube.com/watch?v=9no0YhwtrIo                                
+----------------------------------------------
+#Requirements                                                  
+                                                             
+-Python 3.5 or higher.                                        
+----------------------------------------------
+#Windows:                                                    
+- iCUE for Windows https://www.corsair.com/icue                
+- Python https://www.python.org/downloads/                     
+----------------------------------------------
+#installation                                                  
 
 -download zip
 
@@ -25,7 +24,7 @@
 -pip install "pynput"
 
 -close cmd
-----------------------------------------------------------------
+-----------------------------------------
 #Calibration
 
 -open folder where you unziped the files
@@ -54,7 +53,7 @@
 -put your mouse on the highest EQ setting and press enter on the CMD. 
 
 -Now you can delete your eq setting
-------------------------------------------------------------------------------------
+-------------------------------------------------------------
 # Add EQ settings
 
 -Now open Equlizer.py
@@ -66,13 +65,13 @@
 -Enter now your settings and name
 
 -if you want to add a second just redo the steps
-------------------------------------------------------------------------------------------
+----------------------------------------------------
 #MAIN
 
 -start main.py
 
 -press enter and dont move your mouse
--------------------------------------------------------------------------------------------
+---------------------------------------------------
 #delete a EQ setting
 
 -open Equlizer.py
