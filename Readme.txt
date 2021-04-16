@@ -60,7 +60,7 @@
 
 -press A and enter
 
--chose your EQ setiing that you want to copy
+-chose your EQ setting that you want to copy
 
 -Enter now your settings and name
 
