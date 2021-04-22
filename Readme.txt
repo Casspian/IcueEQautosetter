@@ -21,7 +21,7 @@
 
 -open cmd
 
--pip install "pynput"
+-enter "pip install pynput"
 
 -close cmd
 ----------------------------------------
