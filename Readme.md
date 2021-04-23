@@ -67,7 +67,7 @@ https://youtu.be/BLoQg1Ms5CM
 
 - if you want to add a second just redo the steps
 ----------------------------------------
-# MAIN
+# Inputs your EQ settings
 
 - start main.py
 
