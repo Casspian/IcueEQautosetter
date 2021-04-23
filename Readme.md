@@ -1,20 +1,20 @@
 
-# Video tutorials:                                            
+  # Video tutorials:                                            
 - How to setup everything:                                      
-https://youtu.be/BLoQg1Ms5CM                               
+  https://youtu.be/BLoQg1Ms5CM                               
                                                         
  - How to use it:                                          
   https://www.youtube.com/watch?v=9no0YhwtrIo                                
 ----------------------------------------
-# Requirements                                                  
+  # Requirements                                                  
                                                              
 - Python 3.5 or higher.                                        
 ----------------------------------------
-# Windows:                                                    
+  # Windows:                                                    
 - iCUE for Windows: https://www.corsair.com/icue                
 - Python: https://www.python.org/downloads/                     
 ----------------------------------------
-# installation                                                  
+  # installation                                                  
 
 - download zip
 
@@ -26,7 +26,7 @@ https://youtu.be/BLoQg1Ms5CM
 
 - close cmd
 ----------------------------------------
-# Calibration
+  # Calibration
 
 - open folder where you unziped the files
 
@@ -47,15 +47,15 @@ https://youtu.be/BLoQg1Ms5CM
 - put your mouse on the create new EQ setting and press enter on the CMD. 
 
 - Test if your mouse touches every knop if not press n and enter and recalibrate.
-
- # Optional: AutoRename
+----------------------------------------
+  # Optional: AutoRename
 - open optional.py
 
 - put your mouse on the highest EQ setting and press enter on the CMD. 
 
 - Now you can delete your eq setting
 ----------------------------------------
-# Add a EQ settings
+  # Add a EQ settings
 
 - Now open Equlizer.py
 
@@ -67,7 +67,7 @@ https://youtu.be/BLoQg1Ms5CM
 
 - if you want to add a second just redo the steps
 ----------------------------------------
-# Inputs your EQ settings
+  # Inputs your EQ settings
 
 - start main.py
 
