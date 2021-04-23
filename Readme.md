@@ -11,8 +11,8 @@ https://youtu.be/BLoQg1Ms5CM
 - Python 3.5 or higher.                                        
 ----------------------------------------
 # Windows:                                                    
-- iCUE for Windows https://www.corsair.com/icue                
-- Python https://www.python.org/downloads/                     
+- iCUE for Windows: https://www.corsair.com/icue                
+- Python: https://www.python.org/downloads/                     
 ----------------------------------------
 # installation                                                  
 
@@ -55,7 +55,7 @@ https://youtu.be/BLoQg1Ms5CM
 
 - Now you can delete your eq setting
 ----------------------------------------
-# Add EQ settings
+# Add a EQ settings
 
 - Now open Equlizer.py
 
