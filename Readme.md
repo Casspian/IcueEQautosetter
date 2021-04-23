@@ -1,87 +1,87 @@
-----------------------------------------
-#Video tutorials:                                            
--How to setup everything:                                      
--https://youtu.be/BLoQg1Ms5CM                               
+
+# Video tutorials:                                            
+- How to setup everything:                                      
+https://youtu.be/BLoQg1Ms5CM                               
                                                         
- How to use it:                                          
+ - How to use it:                                          
   https://www.youtube.com/watch?v=9no0YhwtrIo                                
 ----------------------------------------
-#Requirements                                                  
+# Requirements                                                  
                                                              
--Python 3.5 or higher.                                        
+- Python 3.5 or higher.                                        
 ----------------------------------------
-#Windows:                                                    
+# Windows:                                                    
 - iCUE for Windows https://www.corsair.com/icue                
 - Python https://www.python.org/downloads/                     
 ----------------------------------------
-#installation                                                  
+# installation                                                  
 
--download zip
+- download zip
 
--unzip it
+- unzip it
 
--open cmd
+- open cmd
 
--enter "pip install pynput"
+- enter "pip install pynput"
 
--close cmd
+- close cmd
 ----------------------------------------
-#Calibration
+# Calibration
 
--open folder where you unziped the files
+- open folder where you unziped the files
 
--open Icue
+- open Icue
 
--Center Icue on a position that you can easily recreate
+- Center Icue on a position that you can easily recreate
 
--Make a new EQ setting
+- Make a new EQ setting
 
--Put the first knop on the highes position and the seconds at the lowest
+- Put the first knop on the highes position and the seconds at the lowest
 
--open Calibration.py
+- open Calibration.py
 
--put your mouse on the first knop and press enter on the CMD. 
+- put your mouse on the first knop and press enter on the CMD. 
 
--put your mouse on the second knop and press enter on the CMD. 
+- put your mouse on the second knop and press enter on the CMD. 
 
--put your mouse on the create new EQ setting and press enter on the CMD. 
+- put your mouse on the create new EQ setting and press enter on the CMD. 
 
--Test if your mouse touches every knop if not press n and enter and recalibrate.
+- Test if your mouse touches every knop if not press n and enter and recalibrate.
 
- #Optional: AutoRename
--open optional.py
+ # Optional: AutoRename
+- open optional.py
 
--put your mouse on the highest EQ setting and press enter on the CMD. 
+- put your mouse on the highest EQ setting and press enter on the CMD. 
 
--Now you can delete your eq setting
+- Now you can delete your eq setting
 ----------------------------------------
 # Add EQ settings
 
--Now open Equlizer.py
+- Now open Equlizer.py
 
--press A and enter
+- press A and enter
 
--chose your EQ setting that you want to copy
+- chose your EQ setting that you want to copy
 
--Enter now your settings and name
+- Enter now your settings and name
 
--if you want to add a second just redo the steps
+- if you want to add a second just redo the steps
 ----------------------------------------
-#MAIN
+# MAIN
 
--start main.py
+- start main.py
 
--press enter and dont move your mouse
+- press enter and dont move your mouse
 ----------------------------------------
-#delete a EQ setting
+# delete a EQ setting
 
--open Equlizer.py
+- open Equlizer.py
 
--press c and enter now you see your saved eq settings.
+- press c and enter now you see your saved eq settings.
 
--press d to delete one or press e to exit
+- press d to delete one or press e to exit
 
--Enter name of EQ setting you want to delete
+- Enter name of EQ setting you want to delete
 
 
 
