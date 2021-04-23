@@ -1,7 +1,7 @@
 ----------------------------------------
 #Video tutorials:                                            
- How to setup everything:                                      
-  https://youtu.be/BLoQg1Ms5CM                               
+-How to setup everything:                                      
+-https://youtu.be/BLoQg1Ms5CM                               
                                                         
  How to use it:                                          
   https://www.youtube.com/watch?v=9no0YhwtrIo                                
