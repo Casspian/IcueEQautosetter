@@ -4,8 +4,8 @@
   https://youtu.be/BLoQg1Ms5CM                               
 
 
-  (some what outdated)
- - How to use it:                                          
+
+ - How to use it: (some what outdated)                                           
   https://www.youtube.com/watch?v=9no0YhwtrIo                                
 ----------------------------------------
   # Requirements                                                  
