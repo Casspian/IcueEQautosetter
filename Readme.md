@@ -40,7 +40,9 @@
 
 - Put the first knop on the highes position and the seconds at the lowest
 
-- open Calibration.py
+- open Main.py
+
+- chose Calibration
 
 - put your mouse on the first knop and press enter on the CMD. 
 
@@ -49,9 +51,6 @@
 - put your mouse on the create new EQ setting and press enter on the CMD. 
 
 - Test if your mouse touches every knop if not press n and enter and recalibrate.
-----------------------------------------
-  # Optional: AutoRename
-- open optional.py
 
 - put your mouse on the highest EQ setting and press enter on the CMD. 
 
@@ -59,7 +58,9 @@
 ----------------------------------------
   # Add a EQ settings
 
-- Now open Equlizer.py
+- open main.py
+
+- chose Edit EQ Settings
 
 - press A and enter
 
@@ -72,6 +73,8 @@
   # Inputs your EQ settings
 
 - start main.py
+
+- - chose Start Exporting
 
 - press enter and dont move your mouse
 ----------------------------------------
